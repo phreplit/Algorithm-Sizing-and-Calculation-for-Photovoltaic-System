@@ -1,5 +1,5 @@
 
-//  Author: PHNO - Tecnólogo | Pós-Graduado em Energia Solar Fotovoltaica
+//  Author: PHNO - Technologist | Postgraduate
 //  Release Date: 29/11/2024
 //  Version: 0.0.0.2v
 //  Replit: @PHNO, @PHREPLIT
