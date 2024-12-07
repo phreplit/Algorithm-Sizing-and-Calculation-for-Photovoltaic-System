@@ -159,9 +159,9 @@ switch (choice) {
   System.out.println("To convert volts to watts, multiply the volts by 10.");
   System.out.println("To convert watts to volts, divide the watts by 10.");
   System.out.println("To calculate the power of the modules, multiply the nominal power of the module by the number of modules.");
-  System.out.println("To calculate the weekly generation, use the calculation (power of the modules) x (hours per day) x (days per week) and the result will be in watts hour and then to get them in kwh we will divide by 1000 to convert to kwh, as calculated above.");
-  System.out.println("To calculate the monthly generation, use the calculation (power of the modules) x (hours per day) x (days per month) and the result will be in watts hour and then to get them in kwh we will divide by 1000 to convert to kwh, as calculated above.");
-  System.out.println("To calculate the annual generation, use the calculation (power of the modules) x (hours per day) x (days per year) and the result will be in watts hour and then to get them in kwh we will divide by 1000 to convert to kwh, as calculated above.");
+  System.out.println("To calculate the weekly generation, use the calculation (power of the modules) x (hours per day) x (days per week) and the result will be in watts hour and then to get it in kwh we will divide by 1000 to convert to kwh, as calculated above.");
+  System.out.println("To calculate the monthly generation, use the calculation (power of the modules) x (hours per day) x (days per month) and the result will be in watts hour and then to get it in kwh we will divide by 1000 to convert to kwh, as calculated above.");
+  System.out.println("To calculate the annual generation, use the calculation (power of the modules) x (hours per day) x (days per year) and the result will be in watts hour and then to get it in kwh we will divide by 1000 to convert to kwh, as calculated above.");
   System.out.println("To calculate and size the number of modules that composes a solar panel, we use the following calculation: ");
   System.out.println("Calculated system power (Pfv[BR]) in watts divided by the nominal power of the module in watts = the number of modules.");
   System.out.println("To convert 1kwh to 1wh, simply do the calculation, e.g.: 73kwh to wh will be 73000 wh.");
